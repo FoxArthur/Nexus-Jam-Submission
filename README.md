@@ -1,13 +1,13 @@
 # Nexus-Jam-Submission
 
-This project is made for the Nexus Game Jam:
-https://itch.io/jam/nexus-game-jam-iii
+This project is made for the Nexus Game Jam: <br>
+https://itch.io/jam/nexus-game-jam-iii <br>
 
 
-This page is meant for assets sharing.
+This page is meant for assets sharing. <br>
 Git would'nt let us upload the unity project on here, so were doing it this way.
 
 
 # The Team:
-Arthur Vos(me, programmer),
+Arthur Vos(me, programmer),<br>
 Nathaniël Aalberts(Artist)https://github.com/Naalberts
