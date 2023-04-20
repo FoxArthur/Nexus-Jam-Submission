@@ -9,5 +9,5 @@ Git would'nt let us upload the unity project on here, so were doing it this way.
 
 
 # The Team:
-Arthur Vos(me, programmer)https://github.com/FoxArthur ,<br>
-Nathaniël Aalberts(Artist)https://github.com/Naalberts
+Arthur Vos(me, programmer) https://github.com/FoxArthur ,<br>
+Nathaniël Aalberts(Artist) https://github.com/Naalberts
